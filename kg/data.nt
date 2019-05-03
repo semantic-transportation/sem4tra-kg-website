@@ -1,81 +1,119 @@
-<http://example.com/resources/Event/example-event> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/Event/example-event> <http://schema.org/name> "My First Academic Event".
-<http://example.com/resources/Event/example-event> <http://schema.org/duration> "P0T8H".
-<http://example.com/resources/Event/example-event> <http://schema.org/startDate> "2019-06-03".
-<http://example.com/resources/Event/example-event> <http://schema.org/endDate> "2019-06-03".
-<http://example.com/resources/Event/example-event> <http://schema.org/location> "New York, USA".
-<http://example.com/resources/Event/example-event> <http://schema.org/superEvent> "The Big Super Event".
-<http://example.com/resources/Event/example-event> <http://open.vocab.org/terms/twitter-id> "example_event".
-<http://example.com/resources/Event/example-event> <http://schema.org/email> "info@example.com".
-<http://example.com/resources/Event/example-event> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-03-11>.
-<http://example.com/resources/Event/example-event> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-03-29>.
-<http://example.com/resources/Event/example-event> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-04-12>.
-<http://example.com/resources/Event/example-event> <http://schema.org/subEvent> <http://example.com/resources/ImportantDates/2019-06-03>.
-<http://example.com/resources/Event/example-event> <http://schema.org/organizer> <http://example.com/resources/Organizer/john-doe>.
-<http://example.com/resources/Event/example-event> <http://schema.org/organizer> <http://example.com/resources/Organizer/jane-doe>.
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/name> "Mapping based Knowledge Graph Generation".
-<http://example.com/resources/Topic/tools-for-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://example.com/resources/Topic/tools-for-knowledge-graph-generation> <http://schema.org/name> "Tools for Knowledge Graph Generation".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/name> "Methods and Techniques for Knowledge Graph Generation".
-<http://example.com/resources/Topic/lessons-learnt-in-use-and-experience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://example.com/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/name> "Lessons learnt, In Use and Experience".
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Mapping languages for generating Knowledge Graph from legacy datasets".
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Approaches and techniques on (semi)automatically generate mappings".
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Approaches and techniques on collaborative mappings generation".
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Approaches and techniques on exploiting mappings for query answering".
-<http://example.com/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "End User Interfaces (UI) for (collaborative) editing and viewing  for Knowledge Graphs building rules and management platforms in general".
-<http://example.com/resources/Topic/tools-for-knowledge-graph-generation> <http://schema.org/keyword> "Architectures for Knowledge Graph generation systems".
-<http://example.com/resources/Topic/tools-for-knowledge-graph-generation> <http://schema.org/keyword> "(Sustainable) workflows for Web scale Knowledge Graph generation & publishing".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Seamless (distributed) integration/interlinking from heterogeneous data sources".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Dynamic discovery and retrieval of data for KG generation".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Quality, Provenance, privacy and trustworthiness of Linked Data generation".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Knowledge Graph generation and publishing of streaming data at run-time".
-<http://example.com/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Benchmarks for Knowledge Graphs generation and publishing".
-<http://example.com/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/keyword> "Experience, lessons learnt and best practices for generating and publishing".
-<http://example.com/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/keyword> "Negative results and in-use/applied descriptions".
-<http://example.com/resources/ProgramCommittee/sucy-jameson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://example.com/resources/ProgramCommittee/sucy-jameson> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
-<http://example.com/resources/ProgramCommittee/sucy-jameson> <http://schema.org/name> "Sucy Jameson".
-<http://example.com/resources/ProgramCommittee/sucy-jameson> <http://schema.org/memberOf> "Company #3".
-<http://example.com/resources/ProgramCommittee/victoria-brell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://example.com/resources/ProgramCommittee/victoria-brell> <http://schema.org/performerIn> <http://example.com/resources/Event/example-event>.
-<http://example.com/resources/ProgramCommittee/victoria-brell> <http://schema.org/name> "Victoria Brell".
-<http://example.com/resources/ProgramCommittee/victoria-brell> <http://schema.org/memberOf> "Company #4".
-<http://example.com/resources/ImportantDates/2019-03-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/ImportantDates/2019-03-11> <http://schema.org/name> "Submission papers".
-<http://example.com/resources/ImportantDates/2019-03-11> <http://schema.org/startDate> "2019-03-11".
-<http://example.com/resources/ImportantDates/2019-03-11> <http://schema.org/description> "Submit your paper".
-<http://example.com/resources/ImportantDates/2019-03-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/ImportantDates/2019-03-29> <http://schema.org/name> "Notifications".
-<http://example.com/resources/ImportantDates/2019-03-29> <http://schema.org/startDate> "2019-03-29".
-<http://example.com/resources/ImportantDates/2019-03-29> <http://schema.org/description> "The notification and reviews from our Program Committee will be available.".
-<http://example.com/resources/ImportantDates/2019-04-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/ImportantDates/2019-04-12> <http://schema.org/name> "Submission camera ready".
-<http://example.com/resources/ImportantDates/2019-04-12> <http://schema.org/startDate> "2019-04-12".
-<http://example.com/resources/ImportantDates/2019-04-12> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.".
-<http://example.com/resources/ImportantDates/2019-06-03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://example.com/resources/ImportantDates/2019-06-03> <http://schema.org/name> "Event".
-<http://example.com/resources/ImportantDates/2019-06-03> <http://schema.org/startDate> "2019-06-03".
-<http://example.com/resources/ImportantDates/2019-06-03> <http://schema.org/description> "Keynote, papers presentations, demo jam and a lot of discussion. Remember! If your contribution is accepted, it needs to be presented by one of the authors at the event.".
-<http://example.com/resources/Organizer/john-doe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/name> "John Doe".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/sameAs> "http://john.example.com".
-<http://example.com/resources/Organizer/john-doe> <http://open.vocab.org/terms/twitter-id> "john".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/memberOf> "Company #1".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/image> "http://localhost:8080/img/john.jpg".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/description> "The biography of John.".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/email> "john@example.com".
-<http://example.com/resources/Organizer/john-doe> <http://schema.org/jobTitle> "Engineer".
-<http://example.com/resources/Organizer/john-doe> <http://example.org/linkedin> "http://linkedin.com/in/john-doe".
-<http://example.com/resources/Organizer/jane-doe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/name> "Jane Doe".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/sameAs> "http://jane.example.com".
-<http://example.com/resources/Organizer/jane-doe> <http://open.vocab.org/terms/twitter-id> "jane".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/memberOf> "Company #2".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/image> "http://localhost:8080/img/jane.jpg".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/description> "The biography of Jane.".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/email> "jane@example.com".
-<http://example.com/resources/Organizer/jane-doe> <http://schema.org/jobTitle> "Project Manager".
-<http://example.com/resources/Organizer/jane-doe> <http://example.org/linkedin> "https://www.linkedin.com/in/jane-doe".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/name> "Sem4Tra".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/duration> "P0T4H".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/startDate> "2019-09-09".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/endDate> "2019-09-09".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/location> "Karlsruhe, Germany".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/superEvent> "Semantics 2019".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://open.vocab.org/terms/twitter-id> "".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/email> "".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi>.
+<http://sem4tra.linkeddata.es/resources/Topic/modeling-and-knowledge-representation-in-the-transport-domain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/modeling-and-knowledge-representation-in-the-transport-domain> <http://schema.org/name> "Modeling and knowledge representation in the Transport domain".
+<http://sem4tra.linkeddata.es/resources/Topic/vocabularies-and-ontologies-for-the-transport-domain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/vocabularies-and-ontologies-for-the-transport-domain> <http://schema.org/name> "Vocabularies and ontologies for the Transport domain".
+<http://sem4tra.linkeddata.es/resources/Topic/semantic-based-conversion-of-transportation-data-formats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/semantic-based-conversion-of-transportation-data-formats> <http://schema.org/name> "Semantic-based conversion of transportation data formats (e.g., GTFS, NeTEx/Transmodel)".
+<http://sem4tra.linkeddata.es/resources/Topic/web-apis-sharing-linked-open-transport-data-on-web-scale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/web-apis-sharing-linked-open-transport-data-on-web-scale> <http://schema.org/name> "Web APIs sharing Linked Open Transport data on web-scale".
+<http://sem4tra.linkeddata.es/resources/Topic/transport-payment-solutions-with-web-standards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/transport-payment-solutions-with-web-standards> <http://schema.org/name> "Transport payment solutions with Web standards".
+<http://sem4tra.linkeddata.es/resources/Topic/semantic-interoperability-solutions-for-maas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/semantic-interoperability-solutions-for-maas> <http://schema.org/name> "Semantic interoperability solutions for MaaS".
+<http://sem4tra.linkeddata.es/resources/Topic/applications-exploiting-semantics-in-transport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/applications-exploiting-semantics-in-transport> <http://schema.org/name> "Applications exploiting semantics in transport".
+<http://sem4tra.linkeddata.es/resources/Topic/user-based-contributions-to-transport-data-possibly-enhanced-by-semantics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/user-based-contributions-to-transport-data-possibly-enhanced-by-semantics> <http://schema.org/name> "User-based contributions to transport data, possibly enhanced by semantics".
+<http://sem4tra.linkeddata.es/resources/Topic/semantic-integration-of-transport-data-with-other-open-city-data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/semantic-integration-of-transport-data-with-other-open-city-data> <http://schema.org/name> "Semantic integration of transport data with other open city data".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/alessio-carenini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/alessio-carenini> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/alessio-carenini> <http://schema.org/name> "Alessio Carenini".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/alessio-carenini> <http://schema.org/memberOf> "CEFRIEL".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/oscar-corcho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/oscar-corcho> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/oscar-corcho> <http://schema.org/name> "Oscar Corcho".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/oscar-corcho> <http://schema.org/memberOf> "Universidad Politécnica de Madrid".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/matteo-giovanni-rossi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/matteo-giovanni-rossi> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/matteo-giovanni-rossi> <http://schema.org/name> "Matteo Giovanni Rossi".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/matteo-giovanni-rossi> <http://schema.org/memberOf> "Politecnico di Milano".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/juli%C3%A1n-rojas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/juli%C3%A1n-rojas> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/juli%C3%A1n-rojas> <http://schema.org/name> "Julián Rojas".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/juli%C3%A1n-rojas> <http://schema.org/memberOf> "imec - IDLab UGent".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/ruben-taelman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/ruben-taelman> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/ruben-taelman> <http://schema.org/name> "Ruben Taelman".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/ruben-taelman> <http://schema.org/memberOf> "imec - IDLab UGent".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/luis-criado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/luis-criado> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/luis-criado> <http://schema.org/name> "Luis Criado".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/luis-criado> <http://schema.org/memberOf> "CRTM".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://schema.org/name> "Freddy Priyatna".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://schema.org/memberOf> "Universidad Politécnica de Madrid".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://schema.org/name> "Submission papers".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://schema.org/startDate> "2019-07-09".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://schema.org/description> "Submit your paper".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://schema.org/name> "Notifications".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://schema.org/startDate> "2019-07-30".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://schema.org/description> "The notification and reviews from our Program Committee will be available.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06> <http://schema.org/name> "Submission camera ready".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06> <http://schema.org/startDate> "2019-08-06".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09> <http://schema.org/name> "Event".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09> <http://schema.org/startDate> "2019-09-09".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09> <http://schema.org/description> "Keynote, papers presentations, demo jam and a lot of discussion. Remember! If your contribution is accepted, it needs to be presented by one of the authors at the event.".
+<http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/name> "Marco Comerio".
+<http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/sameAs> "https://it.linkedin.com/in/marcocomerio".
+<http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://open.vocab.org/terms/twitter-id> "comerioma".
+<http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/memberOf> "CEFRIEL".
+<http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/image> "./img/comerio.jpg".
+<http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/description> "".
+<http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/email> "marco.comerio@cefriel.com".
+<http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/jobTitle> "Senior Researcher".
+<http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://example.org/linkedin> "https://it.linkedin.com/in/marcocomerio".
+<http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga> <http://schema.org/name> "David Chaves Fraga".
+<http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga> <http://schema.org/sameAs> "http://dchaves.oeg-upm.net".
+<http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga> <http://open.vocab.org/terms/twitter-id> "dchavesf".
+<http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga> <http://schema.org/memberOf> "OEG - UPM".
+<http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga> <http://schema.org/image> "./img/dchavesf.jpg".
+<http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga> <http://schema.org/description> "".
+<http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga> <http://schema.org/email> "dchaves@fi.upm.es".
+<http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga> <http://schema.org/jobTitle> "PhD Student".
+<http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga> <http://example.org/linkedin> "http://linkedin.com/in/david-chaves-fraga".
+<http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://schema.org/name> "Pieter Colpaert".
+<http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://schema.org/sameAs> "https://pietercolpaert.be/".
+<http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://open.vocab.org/terms/twitter-id> "pietercolpaert".
+<http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://schema.org/memberOf> "imec - IDLab UGent".
+<http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://schema.org/image> "./img/pcolpaert.jpg".
+<http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://schema.org/description> "".
+<http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://schema.org/email> "pieter.colpaert@ugent.be".
+<http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://schema.org/jobTitle> "Senior Researcher".
+<http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://example.org/linkedin> "http://be.linkedin.com/in/pcolpaert/".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/name> "Mersedeh Sadeghi".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/sameAs> "".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://open.vocab.org/terms/twitter-id> "".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/memberOf> "POLIMI".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/image> "./img/mersedeh.jpg".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/description> "".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/email> "mersedeh.sadeghi@polimi.it".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/jobTitle> "Senior Researcher".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://example.org/linkedin> "".

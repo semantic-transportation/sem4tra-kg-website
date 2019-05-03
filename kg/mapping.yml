@@ -5,7 +5,7 @@ mappings:
   workshops:
     sources:
       - ['csv/general-info.csv~csv']
-    s: http://example.com/resources/Event/$(id)
+    s: http://sem4tra.linkeddata.es/resources/Event/$(id)
     po:
       - [a, schema:Event]
       - [schema:name, $(title)]
@@ -26,30 +26,23 @@ mappings:
   topics:
     sources:
       - ['csv/topics.csv~csv']
-    s: http://example.com/resources/Topic/$(id)
+    s: http://sem4tra.linkeddata.es/resources/Topic/$(id)
     po:
       - [a, schema:CreativeWork]
       - [schema:name, $(name)]
-
-  subtopics:
-    sources:
-      - ['csv/subtopics.csv~csv']
-    s: http://example.com/resources/Topic/$(id)
-    po:
-       - [schema:keyword, $(subtopic)]
   pc:
     sources:
       - ['csv/pc.csv~csv']
-    s: http://example.com/resources/ProgramCommittee/$(id)
+    s: http://sem4tra.linkeddata.es/resources/ProgramCommittee/$(id)
     po:
       - [a, schema:Person]
-      - [schema:performerIn, http://example.com/resources/Event/example-event~iri]
+      - [schema:performerIn, http://sem4tra.linkeddata.es/resources/Event/sem-4-tra~iri]
       - [schema:name, $(name)]
       - [schema:memberOf, $(organization)]
   dates:
     sources:
       - ['csv/important-dates.csv~csv']
-    s: http://example.com/resources/ImportantDates/$(date)
+    s: http://sem4tra.linkeddata.es/resources/ImportantDates/$(date)
     po:
       - [a, schema:Event]
       - [schema:name, $(event)]
@@ -59,14 +52,14 @@ mappings:
   organizers:
     sources:
       - ['csv/organizers.csv~csv']
-    s: http://example.com/resources/Organizer/$(id)
+    s: http://sem4tra.linkeddata.es/resources/Organizer/$(id)
     po:
       - [a, schema:Person]
       - [schema:name, $(name)]
       - [schema:sameAs, $(webpage)]
       - [ov:twitter-id, $(twitter)]
       - [schema:memberOf, $(organization)]
-      - [schema:image, http://localhost:8080/img/$(photo)]
+      - [schema:image, ./img/$(photo)]
       - [schema:description, $(biography)]
       - [schema:email, $(email)]
       - [schema:jobTitle, $(role)]

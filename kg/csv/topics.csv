@@ -1,5 +1,10 @@
 id,name
-mapping-based-knowledge-graph-generation,Mapping based Knowledge Graph Generation
-tools-for-knowledge-graph-generation,Tools for Knowledge Graph Generation
-methods-and-techniques-for-knowledge-graph-generation,Methods and Techniques for Knowledge Graph Generation
-lessons-learnt-in-use-and-experience,"Lessons learnt, In Use and Experience"
+modeling-and-knowledge-representation-in-the-transport-domain,Modeling and knowledge representation in the Transport domain
+vocabularies-and-ontologies-for-the-transport-domain,Vocabularies and ontologies for the Transport domain
+semantic-based-conversion-of-transportation-data-formats,"Semantic-based conversion of transportation data formats (e.g., GTFS, NeTEx/Transmodel)"
+web-apis-sharing-linked-open-transport-data-on-web-scale,Web APIs sharing Linked Open Transport data on web-scale
+transport-payment-solutions-with-web-standards,Transport payment solutions with Web standards
+semantic-interoperability-solutions-for-maas,Semantic interoperability solutions for MaaS
+applications-exploiting-semantics-in-transport,Applications exploiting semantics in transport
+user-based-contributions-to-transport-data-possibly-enhanced-by-semantics,"User-based contributions to transport data, possibly enhanced by semantics"
+semantic-integration-of-transport-data-with-other-open-city-data,Semantic integration of transport data with other open city data

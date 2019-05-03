@@ -1,3 +1,5 @@
 id,name,organization,email,photo,twitter,webpage,biography,role,linkedin
-john-doe,John Doe,Company #1,john@example.com,john.jpg,john,http://john.example.com,"The biography of John.",Engineer,http://linkedin.com/in/john-doe
-jane-doe,Jane Doe,Company #2,jane@example.com,jane.jpg,jane,http://jane.example.com,"The biography of Jane.",Project Manager,https://www.linkedin.com/in/jane-doe
+marco-comerio,Marco Comerio,CEFRIEL,marco.comerio@cefriel.com,comerio.jpg,comerioma,https://it.linkedin.com/in/marcocomerio,"",Senior Researcher,https://it.linkedin.com/in/marcocomerio
+david-chaves-fraga,David Chaves Fraga,OEG - UPM,dchaves@fi.upm.es,dchavesf.jpg,dchavesf,http://dchaves.oeg-upm.net,"",PhD Student,http://linkedin.com/in/david-chaves-fraga
+pieter-colpaert,Pieter Colpaert,imec - IDLab UGent,pieter.colpaert@ugent.be,pcolpaert.jpg,pietercolpaert,https://pietercolpaert.be/,"",Senior Researcher,http://be.linkedin.com/in/pcolpaert/
+mersedeh-sadeghi,Mersedeh Sadeghi,POLIMI,mersedeh.sadeghi@polimi.it,mersedeh.jpg,,,"",Senior Researcher,
