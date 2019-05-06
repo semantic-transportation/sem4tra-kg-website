@@ -159,9 +159,13 @@ textarea.input {
   top: 0;
   right: 0;
   bottom: 0;
-  /*background-size: cover;*/
   padding: 50px !important;
   z-index: -1;
+}
+
+.hero {
+  background-size: cover;
+  background-position: 0px 0px; background-image: url("../img/bg.jpg");
 }
 
 .section-title {
