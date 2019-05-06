@@ -61,6 +61,10 @@
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://schema.org/name> "Freddy Priyatna".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://schema.org/memberOf> "Universidad Politécnica de Madrid".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/irene-celino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/irene-celino> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/irene-celino> <http://schema.org/name> "Irene Celino".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/irene-celino> <http://schema.org/memberOf> "CEFRIEL".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://schema.org/name> "Submission papers".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://schema.org/startDate> "2019-07-09".
@@ -109,11 +113,11 @@
 <http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert> <http://example.org/linkedin> "http://be.linkedin.com/in/pcolpaert/".
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/name> "Mersedeh Sadeghi".
-<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/sameAs> "".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/sameAs> "https://www.linkedin.com/in/mersedeh-sadeghi".
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://open.vocab.org/terms/twitter-id> "".
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/memberOf> "POLIMI".
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/image> "./img/mersedeh.jpg".
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/description> "".
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/email> "mersedeh.sadeghi@polimi.it".
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/jobTitle> "Senior Researcher".
-<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://example.org/linkedin> "".
+<http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://example.org/linkedin> "https://www.linkedin.com/in/mersedeh-sadeghi".
