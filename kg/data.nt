@@ -7,7 +7,7 @@
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/superEvent> "SEMANTiCS Conference 2019".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://open.vocab.org/terms/twitter-id> "".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/email> "".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-18>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09>.
@@ -89,10 +89,10 @@
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/ted-guild> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/ted-guild> <http://schema.org/name> "Ted Guild".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/ted-guild> <http://schema.org/memberOf> "W3C".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://schema.org/name> "Submission papers".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://schema.org/startDate> "2019-07-09".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-09> <http://schema.org/description> "Submit your paper".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-18> <http://schema.org/name> "Submission papers".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-18> <http://schema.org/startDate> "2019-07-18".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-18> <http://schema.org/description> "Submit your paper".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://schema.org/name> "Notifications".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://schema.org/startDate> "2019-07-30".
