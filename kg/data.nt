@@ -139,7 +139,7 @@
 <http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/sameAs> "https://www.linkedin.com/in/marioscrocca/".
 <http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://open.vocab.org/terms/twitter-id> "mario_scrock".
 <http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/memberOf> "CEFRIEL".
-<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/image> "./img/mario.jpeg".
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/image> "./img/mario.jpg".
 <http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/description> "".
 <http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/email> "mario.scrocca@cefriel.com".
 <http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/jobTitle> "Assistant Researcher".
