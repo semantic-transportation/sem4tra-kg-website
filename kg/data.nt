@@ -1,20 +1,21 @@
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/name> "International Workshop on Semantics for Transport".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/name> "Second International Workshop on Semantics and the Web for Transport".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/duration> "P0T4H".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/startDate> "2019-09-09".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/endDate> "2019-09-09".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/location> "Karlsruhe, Germany".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/superEvent> "SEMANTiCS Conference 2019".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/startDate> "2020-05-09".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/endDate> "2020-05-09".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/location> "Helsinki, Finland".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/superEvent> "ICWE Conference 2020".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://open.vocab.org/terms/twitter-id> "".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/email> "".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-18>.
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30>.
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06>.
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-01>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca>.
 <http://sem4tra.linkeddata.es/resources/Topic/modeling-and-knowledge-representation-in-the-transport-domain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
 <http://sem4tra.linkeddata.es/resources/Topic/modeling-and-knowledge-representation-in-the-transport-domain> <http://schema.org/name> "Modeling and knowledge representation in the Transport domain".
 <http://sem4tra.linkeddata.es/resources/Topic/vocabularies-and-ontologies-for-the-transport-domain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
@@ -53,14 +54,6 @@
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/ruben-taelman> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/ruben-taelman> <http://schema.org/name> "Ruben Taelman".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/ruben-taelman> <http://schema.org/memberOf> "imec - IDLab UGent".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/luis-criado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/luis-criado> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/luis-criado> <http://schema.org/name> "Luis Criado".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/luis-criado> <http://schema.org/memberOf> "CRTM".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://schema.org/name> "Freddy Priyatna".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/freddy-priyatna> <http://schema.org/memberOf> "Universidad Politécnica de Madrid".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/irene-celino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/irene-celino> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/irene-celino> <http://schema.org/name> "Irene Celino".
@@ -73,10 +66,6 @@
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/guido-di-pasquale> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/guido-di-pasquale> <http://schema.org/name> "Guido Di Pasquale".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/guido-di-pasquale> <http://schema.org/memberOf> "UITP".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/mario-scrocca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/mario-scrocca> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/mario-scrocca> <http://schema.org/name> "Mario Scrocca".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/mario-scrocca> <http://schema.org/memberOf> "CEFRIEL".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/letizia-tanca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/letizia-tanca> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/letizia-tanca> <http://schema.org/name> "Letizia Tanca".
@@ -89,22 +78,22 @@
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/ted-guild> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/ted-guild> <http://schema.org/name> "Ted Guild".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/ted-guild> <http://schema.org/memberOf> "W3C".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-18> <http://schema.org/name> "Submission papers".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-18> <http://schema.org/startDate> "2019-07-18".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-18> <http://schema.org/description> "Submit your paper".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://schema.org/name> "Notifications".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://schema.org/startDate> "2019-07-30".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-07-30> <http://schema.org/description> "The notification and reviews from our Program Committee will be available.".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06> <http://schema.org/name> "Submission camera ready".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06> <http://schema.org/startDate> "2019-08-06".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-08-06> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09> <http://schema.org/name> "Event".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09> <http://schema.org/startDate> "2019-09-09".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2019-09-09> <http://schema.org/description> "Keynote, papers presentations, demo jam and a lot of discussion. Remember! If your contribution is accepted, it needs to be presented by one of the authors at the event.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://schema.org/name> "Submission papers".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://schema.org/startDate> "2020-04-26".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://schema.org/description> "Submit your paper".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-01> <http://schema.org/name> "Notifications".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-01> <http://schema.org/startDate> "2020-05-01".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-01> <http://schema.org/description> "The notification and reviews from our Program Committee will be available.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/name> "Submission camera ready".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/startDate> "2020-05-15".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://schema.org/name> "Event".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://schema.org/startDate> "2020-06-09".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://schema.org/description> "Keynote, papers presentations, demo jam and a lot of discussion. Remember! If your contribution is accepted, it needs to be presented by one of the authors at the event.".
 <http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
 <http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/name> "Marco Comerio".
 <http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/sameAs> "https://it.linkedin.com/in/marcocomerio".
@@ -145,3 +134,13 @@
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/email> "mersedeh.sadeghi@polimi.it".
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://schema.org/jobTitle> "Senior Researcher".
 <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi> <http://example.org/linkedin> "https://www.linkedin.com/in/mersedeh-sadeghi".
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/name> "Mario Scrocca".
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/sameAs> "https://www.linkedin.com/in/marioscrocca/".
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://open.vocab.org/terms/twitter-id> "mario_scrock".
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/memberOf> "CEFRIEL".
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/image> "./img/mario.jpeg".
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/description> "".
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/email> "mario.scrocca@cefriel.com".
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://schema.org/jobTitle> "Assistant Researcher".
+<http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca> <http://example.org/linkedin> "https://www.linkedin.com/in/marioscrocca/".
