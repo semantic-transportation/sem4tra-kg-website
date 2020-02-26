@@ -1,8 +1,8 @@
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/name> "Second International Workshop on Semantics and the Web for Transport".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/duration> "P0T4H".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/startDate> "2020-05-09".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/endDate> "2020-05-09".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/startDate> "2020-06-09".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/endDate> "2020-06-09".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/location> "Helsinki, Finland".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/superEvent> "ICWE Conference 2020".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://open.vocab.org/terms/twitter-id> "".
