@@ -62,22 +62,10 @@
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/riccardo-santoro> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/riccardo-santoro> <http://schema.org/name> "Riccardo Santoro".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/riccardo-santoro> <http://schema.org/memberOf> "Ferrovie dello Stato Italiane".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/guido-di-pasquale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/guido-di-pasquale> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/guido-di-pasquale> <http://schema.org/name> "Guido Di Pasquale".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/guido-di-pasquale> <http://schema.org/memberOf> "UITP".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/letizia-tanca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/letizia-tanca> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/letizia-tanca> <http://schema.org/name> "Letizia Tanca".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/letizia-tanca> <http://schema.org/memberOf> "Politecnico di Milano".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/joshua-shinavier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/joshua-shinavier> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/joshua-shinavier> <http://schema.org/name> "Joshua Shinavier".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/joshua-shinavier> <http://schema.org/memberOf> "Uber".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/ted-guild> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/ted-guild> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/ted-guild> <http://schema.org/name> "Ted Guild".
-<http://sem4tra.linkeddata.es/resources/ProgramCommittee/ted-guild> <http://schema.org/memberOf> "W3C".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://schema.org/name> "Submission papers".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://schema.org/startDate> "2020-04-26".
