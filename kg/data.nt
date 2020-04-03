@@ -66,6 +66,14 @@
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/letizia-tanca> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/letizia-tanca> <http://schema.org/name> "Letizia Tanca".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/letizia-tanca> <http://schema.org/memberOf> "Politecnico di Milano".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/edna-ruckhaus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/edna-ruckhaus> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/edna-ruckhaus> <http://schema.org/name> "Edna Ruckhaus".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/edna-ruckhaus> <http://schema.org/memberOf> "Universidad Politécnica de Madrid".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/marlene-goncalves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/marlene-goncalves> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/marlene-goncalves> <http://schema.org/name> "Marlene Gonçalves".
+<http://sem4tra.linkeddata.es/resources/ProgramCommittee/marlene-goncalves> <http://schema.org/memberOf> "Universidad Simón Bolivar ".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://schema.org/name> "Submission papers".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://schema.org/startDate> "2020-04-26".
