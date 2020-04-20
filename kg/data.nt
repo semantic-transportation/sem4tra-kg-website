@@ -7,9 +7,9 @@
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/superEvent> "ICWE Conference 2020".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://open.vocab.org/terms/twitter-id> "".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/email> "".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26>.
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-01>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-10>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-20>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga>.
@@ -74,18 +74,18 @@
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/marlene-goncalves> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/marlene-goncalves> <http://schema.org/name> "Marlene Gonçalves".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/marlene-goncalves> <http://schema.org/memberOf> "Universidad Simón Bolivar ".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://schema.org/name> "Submission papers".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://schema.org/startDate> "2020-04-26".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-04-26> <http://schema.org/description> "Submit your paper".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-01> <http://schema.org/name> "Notifications".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-01> <http://schema.org/startDate> "2020-05-01".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-01> <http://schema.org/description> "The notification and reviews from our Program Committee will be available.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-10> <http://schema.org/name> "Submission papers".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-10> <http://schema.org/startDate> "2020-05-10".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-10> <http://schema.org/description> "Submit your paper".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/name> "Submission camera ready".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/name> "Notifications".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/startDate> "2020-05-15".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/description> "The notification and reviews from our Program Committee will be available.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-20> <http://schema.org/name> "Submission camera ready".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-20> <http://schema.org/startDate> "2020-05-20".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-20> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://schema.org/name> "Event".
 <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://schema.org/startDate> "2020-06-09".
