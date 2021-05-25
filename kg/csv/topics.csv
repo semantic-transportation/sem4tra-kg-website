@@ -1,10 +1,7 @@
 id,name
-modeling-and-knowledge-representation-in-the-transport-domain,Modeling and knowledge representation in the Transport domain
-vocabularies-and-ontologies-for-the-transport-domain,Vocabularies and ontologies for the Transport domain
-semantic-based-conversion-of-transportation-data-formats,"Semantic-based conversion of transportation data formats (e.g., GTFS, NeTEx/Transmodel)"
-web-apis-sharing-linked-open-transport-data-on-web-scale,Web APIs sharing Linked Open Transport data on web-scale
-transport-payment-solutions-with-web-standards,Transport payment solutions with Web standards
-semantic-interoperability-solutions-for-maas,Semantic interoperability solutions for MaaS
-applications-exploiting-semantics-in-transport,Applications exploiting semantics in transport
-user-based-contributions-to-transport-data-possibly-enhanced-by-semantics,"User-based contributions to transport data, possibly enhanced by semantics"
-semantic-integration-of-transport-data-with-other-open-city-data,Semantic integration of transport data with other open city data
+decentralized-data-management,Decentralized data management
+the-exploitation-of-transport-data-on-the-web,The exploitation of Transport Data on the Web
+benchmarking-of-web-infrastructure,Benchmarking of Web Infrastructure
+knowledge-graphs-and-ontologies-in-the-transportation-domain,Knowledge Graphs and Ontologies in the transportation domain
+semantic-technology-applications-and-datasets-on-smart-mobility,Semantic technology applications and datasets on smart mobility
+

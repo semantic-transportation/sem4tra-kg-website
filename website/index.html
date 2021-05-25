@@ -121,8 +121,7 @@
 				<!-- about content -->
 				<div class="about-content" style="font-size: 14pt">
 					<p>
-					Mobility-as-a-Service (MaaS) integrates different transport services into a single mobility service. The goal is to provide a traveler with all the services needed for a door-to-door travel under a single payment whilst integrating disparate modes of mobility (public transport, car- or bike-sharing, taxi/car rental, or a combination thereof) under one travel experience. After years of conceptualization and strategizing, MaaS is becoming a reality rather than a future goal. However, many challenges remain unanswered. The development of multimodal travel information, planning and booking services, and the interoperability between business applications are currently limited due to the fragmentation and incompatibility of interchange formats and protocols both within and across transport sectors. The foundation of semantic web and the technologies such as RDF and Linked Data, foster utilization and application of the semantics of terms in a decentralized fashion on web-scale. Given the decentralized nature of MaaS, this workshop targets researchers and practitioners who are contributing to the transformation of the transportation sector by proposing new semantic and Web API based solutions to achieve the MaaS objectives. The workshop is an opportunity for disseminating and discussing use cases and studies showing the application of semantic and web technologies in the Transport domain to tackle the above-mentioned challenges.
-
+					Smart Cities could not be realized without envisioning a change towards the Mobility-as-a-Service (MaaS) paradigm for integrated and intelligent transportation. MaaS improves every aspect of transportation from ticketing to navigation, from traffic to parking management and from car/bike sharing to door-to-door travel. However, to make MaaS a reality,  challenges in data integration must be addressed. The development of multimodal travel information, planning and booking services, and the interoperability between business applications are currently limited due to the fragmentation and incompatibility of interchange formats and protocols both within and across transport sectors. This workshop seeks to advance MaaS through Semantic Web, Linked Data and Knowledge Graph techniques. In-scope are methods to query and reason over integrated data on the web that can help an end-user to plan and book a trip from A to B.  We target researchers and practitioners who are contributing to the transformation of the transportation sector by proposing new solutions based on semantic techniques and technologies, to realize MaaS objectives. The workshop is an opportunity for disseminating and discussing use cases and studies showing the application of semantic and web technologies in the transport domain to tackle the aforementioned challenges.
 					</p>
 
 				</div>
@@ -135,15 +134,20 @@
 			<div>
 
 				
+				{% for topic in topics %}
 				<div class="col-md-10 col-md-offset-1">
 					<ul class="list-group">
-						{% for topic in topics %}
-						<li class="list-group-item">
+						<li class="list-group-item active">
 							{{ topic.name }}
 						</li>
+
+						{% for subtopic in topic.subTopics %}
+						<li class="list-group-item">{{ subtopic }}</li>
 						{% endfor %}
 					</ul>
+
 				</div>
+				{% endfor %}
 				
 
 			</div>
@@ -177,7 +181,7 @@
 			<div class="col-md-8 col-md-offset-2">
 				<h3 class="title"><span style="color: #dd0a37;">Review and Publication</span></h3>
 				<p style="font-size: 14pt">
-					Please, share your contribution before the deadline through the <a href=" https://easychair.org/conferences/?conf=sem4tra2020">EasyChair</a> platform. The accepted contributions will be published in the proceedings of the main conference with Springer. Each accepted paper needs to be presented by one of the authors at the workshop.
+					Please, share your contribution before the deadline through the <a href="">OpenReview</a> platform (available soon). The accepted contributions will be published in the proceedings of the workshop with CEUR. Each accepted paper needs to be presented by one of the authors at the workshop.
 				</p>
 			</div>
 		</div>
@@ -373,6 +377,12 @@
 					<td> <a href="https://2019.semantics.cc/">SEMANTiCS</a> - Karlsruhe (Germany) </td>
 					<td> <a href="http://ceur-ws.org/Vol-2447/">http://ceur-ws.org/Vol-2447/</a></td>
 					<td> <a href="https://sem4tra2019.linkeddata.es/">https://sem4tra2019.linkeddata.es</a> </td>
+				</tr>
+				<tr>
+					<td> 2029 </td>
+					<td> <a href="https://2019.semantics.cc/">ICWE</a> - Online </td>
+					<td> <a href="http://ceur-ws.org/Vol-2447/">https://link.springer.com/book/10.1007/978-3-030-65665-2</a></td>
+					<td> <a href="https://sem4tra2019.linkeddata.es/">https://sem4tra2020.linkeddata.es</a> </td>
 				</tr>
 			</table>
 		</div>

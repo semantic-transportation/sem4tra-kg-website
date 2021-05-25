@@ -30,6 +30,14 @@ mappings:
     po:
       - [a, schema:CreativeWork]
       - [schema:name, $(name)]
+
+  subtopics:
+    sources:
+      - ['csv/subtopics.csv~csv']
+    s: http://sem4tra.linkeddata.es/resources/Topic/$(id)
+    po:
+       - [schema:keyword, $(subtopic)]
+       
   pc:
     sources:
       - ['csv/pc.csv~csv']

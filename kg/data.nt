@@ -1,39 +1,46 @@
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/name> "Second International Workshop on Semantics and the Web for Transport".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/name> "Third International Workshop on Semantics and the Web for Transport".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/duration> "P0T4H".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/startDate> "2020-06-09".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/endDate> "2020-06-09".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/location> "Helsinki, Finland".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/superEvent> "ICWE Conference 2020".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/startDate> "2021-09-06".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/endDate> "2021-09-06".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/location> "".
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/superEvent> "SEMANTiCS Conference 2021".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://open.vocab.org/terms/twitter-id> "".
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/email> "".
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-10>.
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15>.
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-20>.
-<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-09>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-23>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-30>.
+<http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/subEvent> <http://sem4tra.linkeddata.es/resources/ImportantDates/2021-09-06>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/david-chaves-fraga>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/pieter-colpaert>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/mersedeh-sadeghi>.
 <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra> <http://schema.org/organizer> <http://sem4tra.linkeddata.es/resources/Organizer/mario-scrocca>.
-<http://sem4tra.linkeddata.es/resources/Topic/modeling-and-knowledge-representation-in-the-transport-domain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://sem4tra.linkeddata.es/resources/Topic/modeling-and-knowledge-representation-in-the-transport-domain> <http://schema.org/name> "Modeling and knowledge representation in the Transport domain".
-<http://sem4tra.linkeddata.es/resources/Topic/vocabularies-and-ontologies-for-the-transport-domain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://sem4tra.linkeddata.es/resources/Topic/vocabularies-and-ontologies-for-the-transport-domain> <http://schema.org/name> "Vocabularies and ontologies for the Transport domain".
-<http://sem4tra.linkeddata.es/resources/Topic/semantic-based-conversion-of-transportation-data-formats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://sem4tra.linkeddata.es/resources/Topic/semantic-based-conversion-of-transportation-data-formats> <http://schema.org/name> "Semantic-based conversion of transportation data formats (e.g., GTFS, NeTEx/Transmodel)".
-<http://sem4tra.linkeddata.es/resources/Topic/web-apis-sharing-linked-open-transport-data-on-web-scale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://sem4tra.linkeddata.es/resources/Topic/web-apis-sharing-linked-open-transport-data-on-web-scale> <http://schema.org/name> "Web APIs sharing Linked Open Transport data on web-scale".
-<http://sem4tra.linkeddata.es/resources/Topic/transport-payment-solutions-with-web-standards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://sem4tra.linkeddata.es/resources/Topic/transport-payment-solutions-with-web-standards> <http://schema.org/name> "Transport payment solutions with Web standards".
-<http://sem4tra.linkeddata.es/resources/Topic/semantic-interoperability-solutions-for-maas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://sem4tra.linkeddata.es/resources/Topic/semantic-interoperability-solutions-for-maas> <http://schema.org/name> "Semantic interoperability solutions for MaaS".
-<http://sem4tra.linkeddata.es/resources/Topic/applications-exploiting-semantics-in-transport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://sem4tra.linkeddata.es/resources/Topic/applications-exploiting-semantics-in-transport> <http://schema.org/name> "Applications exploiting semantics in transport".
-<http://sem4tra.linkeddata.es/resources/Topic/user-based-contributions-to-transport-data-possibly-enhanced-by-semantics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://sem4tra.linkeddata.es/resources/Topic/user-based-contributions-to-transport-data-possibly-enhanced-by-semantics> <http://schema.org/name> "User-based contributions to transport data, possibly enhanced by semantics".
-<http://sem4tra.linkeddata.es/resources/Topic/semantic-integration-of-transport-data-with-other-open-city-data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
-<http://sem4tra.linkeddata.es/resources/Topic/semantic-integration-of-transport-data-with-other-open-city-data> <http://schema.org/name> "Semantic integration of transport data with other open city data".
+<http://sem4tra.linkeddata.es/resources/Topic/decentralized-data-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/decentralized-data-management> <http://schema.org/name> "Decentralized data management".
+<http://sem4tra.linkeddata.es/resources/Topic/the-exploitation-of-transport-data-on-the-web> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/the-exploitation-of-transport-data-on-the-web> <http://schema.org/name> "The exploitation of Transport Data on the Web".
+<http://sem4tra.linkeddata.es/resources/Topic/benchmarking-of-web-infrastructure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/benchmarking-of-web-infrastructure> <http://schema.org/name> "Benchmarking of Web Infrastructure".
+<http://sem4tra.linkeddata.es/resources/Topic/knowledge-graphs-and-ontologies-in-the-transportation-domain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/knowledge-graphs-and-ontologies-in-the-transportation-domain> <http://schema.org/name> "Knowledge Graphs and Ontologies in the transportation domain".
+<http://sem4tra.linkeddata.es/resources/Topic/semantic-technology-applications-and-datasets-on-smart-mobility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://sem4tra.linkeddata.es/resources/Topic/semantic-technology-applications-and-datasets-on-smart-mobility> <http://schema.org/name> "Semantic technology applications and datasets on smart mobility".
+<http://sem4tra.linkeddata.es/resources/Topic/decentralized-data-management> <http://schema.org/keyword> "Query languages and methods for a Web of Transport Data".
+<http://sem4tra.linkeddata.es/resources/Topic/decentralized-data-management> <http://schema.org/keyword> "Creating automated alignments between datasets using the various specifications".
+<http://sem4tra.linkeddata.es/resources/Topic/decentralized-data-management> <http://schema.org/keyword> "Recommendations for mobility specification builders to raise interoperability between specifications".
+<http://sem4tra.linkeddata.es/resources/Topic/decentralized-data-management> <http://schema.org/keyword> "Alignments with existing or upcoming general-purpose Web API specifications such as W3C Web payments or Solid".
+<http://sem4tra.linkeddata.es/resources/Topic/decentralized-data-management> <http://schema.org/keyword> "Interfaces between enterprise data and the Semantic Web".
+<http://sem4tra.linkeddata.es/resources/Topic/the-exploitation-of-transport-data-on-the-web> <http://schema.org/keyword> "Challenges and opportunities for route planning and ticketing".
+<http://sem4tra.linkeddata.es/resources/Topic/the-exploitation-of-transport-data-on-the-web> <http://schema.org/keyword> "Personalized route planning taking into account data stored on your client or personal data space".
+<http://sem4tra.linkeddata.es/resources/Topic/the-exploitation-of-transport-data-on-the-web> <http://schema.org/keyword> "Anonymization in the mobility space for data sharing".
+<http://sem4tra.linkeddata.es/resources/Topic/benchmarking-of-web-infrastructure> <http://schema.org/keyword> "Comparing ticketing API architectures".
+<http://sem4tra.linkeddata.es/resources/Topic/benchmarking-of-web-infrastructure> <http://schema.org/keyword> "Comparing route planning API architectures".
+<http://sem4tra.linkeddata.es/resources/Topic/benchmarking-of-web-infrastructure> <http://schema.org/keyword> "Publishing and querying planned transport data and their live updates on the Web".
+<http://sem4tra.linkeddata.es/resources/Topic/knowledge-graphs-and-ontologies-in-the-transportation-domain> <http://schema.org/keyword> "Aligning regional vocabularies with international reference domain models such as Transmodel, NeTEx, SIRI or DATEXII".
+<http://sem4tra.linkeddata.es/resources/Topic/knowledge-graphs-and-ontologies-in-the-transportation-domain> <http://schema.org/keyword> "Reusing existing linked datasets, such as Geonames, OpenStreetMap or Wikidata, for MaaS use cases".
+<http://sem4tra.linkeddata.es/resources/Topic/knowledge-graphs-and-ontologies-in-the-transportation-domain> <http://schema.org/keyword> "Bridging the gap with non-RDF specifications such as MobilityDataSpecification, General Transit Feed Specification, General Bike Feed Specification, TOMP API or MaaS API".
+<http://sem4tra.linkeddata.es/resources/Topic/knowledge-graphs-and-ontologies-in-the-transportation-domain> <http://schema.org/keyword> "Building a Knowledge Graph of the transportation domain by integration and conversion of heterogeneous data sources (e.g., National Access Points or local sources)".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/alessio-carenini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/alessio-carenini> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/alessio-carenini> <http://schema.org/name> "Alessio Carenini".
@@ -74,22 +81,22 @@
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/marlene-goncalves> <http://schema.org/performerIn> <http://sem4tra.linkeddata.es/resources/Event/sem-4-tra>.
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/marlene-goncalves> <http://schema.org/name> "Marlene Gonçalves".
 <http://sem4tra.linkeddata.es/resources/ProgramCommittee/marlene-goncalves> <http://schema.org/memberOf> "Universidad Simón Bolivar ".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-10> <http://schema.org/name> "Submission papers".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-10> <http://schema.org/startDate> "2020-05-10".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-10> <http://schema.org/description> "Submit your paper".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/name> "Notifications".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/startDate> "2020-05-15".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-15> <http://schema.org/description> "The notification and reviews from our Program Committee will be available.".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-20> <http://schema.org/name> "Submission camera ready".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-20> <http://schema.org/startDate> "2020-05-20".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-05-20> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://schema.org/name> "Event".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://schema.org/startDate> "2020-06-09".
-<http://sem4tra.linkeddata.es/resources/ImportantDates/2020-06-09> <http://schema.org/description> "Keynote, papers presentations, demo jam and a lot of discussion. Remember! If your contribution is accepted, it needs to be presented by one of the authors at the event.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-09> <http://schema.org/name> "Submission papers".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-09> <http://schema.org/startDate> "2021-07-09".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-09> <http://schema.org/description> "Submit your paper".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-23> <http://schema.org/name> "Notifications".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-23> <http://schema.org/startDate> "2021-07-23".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-23> <http://schema.org/description> "The notification and reviews from our Program Committee will be available.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-30> <http://schema.org/name> "Submission camera ready".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-30> <http://schema.org/startDate> "2021-07-30".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-07-30> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-09-06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-09-06> <http://schema.org/name> "Event".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-09-06> <http://schema.org/startDate> "2021-09-06".
+<http://sem4tra.linkeddata.es/resources/ImportantDates/2021-09-06> <http://schema.org/description> "Keynote, papers presentations, demo jam and a lot of discussion. Remember! If your contribution is accepted, it needs to be presented by one of the authors at the event.".
 <http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
 <http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/name> "Marco Comerio".
 <http://sem4tra.linkeddata.es/resources/Organizer/marco-comerio> <http://schema.org/sameAs> "https://it.linkedin.com/in/marcocomerio".
